@@ -1,5 +1,7 @@
 # syntax=docker/dockerfile:1
 
+# created by uhl1k (Roman Janků) and licensed under MIT license.
+
 FROM --platform=$BUILDPLATFORM debian:buster-slim
 
 WORKDIR /app

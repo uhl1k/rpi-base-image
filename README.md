@@ -4,6 +4,8 @@ This is a prepared image used for distributed computations on the RaspberryPi cl
 
 It can be used straight out of the box to run Java or any other applications on the RaspberryPi using Docker. It has all the necessary applications and tools preinstaled.
 
+The built images are available at [https://hub.docker.com/r/uhl1k/rpi-base-image](https://hub.docker.com/r/uhl1k/rpi-base-image) on the DockerHub.
+
 ## Contents
 
 The image has preinstalled applications and tools that I used but you can add your own. Here is complete list of preinstalled applications and tools:

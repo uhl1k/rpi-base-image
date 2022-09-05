@@ -21,7 +21,7 @@ The image has preinstalled applications and tools that I used but you can add yo
 
 Prefered way is to use this image as a `FROM` in your `Dockerfile`. For example 
 
-    FROM --platform=$BUILDPLATFORM uhl1k/rpi-base-image:version1
+    FROM uhl1k/rpi-base-image
 
 Alternatively, you can include this `Dockerfile` into yours but this would prolong the time of building your image and would make it unnecesary dificult.
 
